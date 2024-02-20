@@ -5,4 +5,4 @@
 - Func list: https://docs.google.com/spreadsheets/d/1igeBJM3LeEKzwQUR-2VJImJAa-2csGCOZp1ctyisITI/edit#gid=0
 - context docs: https://docs.google.com/document/d/1aUJb9ZjEiWwr0RPsB3sTKUF_Ie9ZtsloURubLNIpTdk/edit
 
-#### © 2023 BlueEyesssss.
+#### © 2023 BlueEyesssss. © 2023 Just Bitalo
